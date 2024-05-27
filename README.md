@@ -14,25 +14,20 @@ Una breve descripción de lo que hace este proyecto y para quién es.
 Para instalar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
-<code>
-    git clone https://github.com/tu-usuario/tu-repo-nombre.git
+`git clone https://github.com/tu-usuario/tu-repo-nombre.git`
 
 2. Navega al directorio del proyecto:
-  <code>
-    cd tu-repo-nombre
+`cd tu-repo-nombre`
 
 
 3. Compila el proyecto:
-   <code>
-    make
-
+ `make`
 
 ## Uso
 
 Proporciona instrucciones y ejemplos para usar tu proyecto. Aquí tienes un ejemplo simple:
 
-<code>
-./tu-ejecutable arg1 arg2
+`./tu-ejecutable arg1 arg2`
 
 ## Contribuir
 
@@ -40,16 +35,13 @@ Proporciona instrucciones y ejemplos para usar tu proyecto. Aquí tienes un ejem
 
 1. Haz un fork del repositorio.
 2. Crea una nueva rama:
-   <code>
-    git checkout -b feature/tu-nueva-caracteristica
+ `git checkout -b feature/tu-nueva-caracteristica`
   
 3. Realiza tus cambios y haz un commit:
-   <code>
-    git commit -m 'Añadir una nueva característica'
+ `git commit -m 'Añadir una nueva característica'`
  
 4. Sube tus cambios a la rama:
-    <code>
-    git push origin feature/tu-nueva-caracteristica
+ `git push origin feature/tu-nueva-caracteristica`
    
 5. Crea un pull request.
 
